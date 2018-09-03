@@ -1,8 +1,8 @@
 #!/bin/sh
-clientid=""
-botid=""
-token=""
-ownerid=""
+clientid="485125578303995918"
+botid="485125578303995918"
+token="NDg1MTI1NTc4MzAzOTk1OTE4.DmsA5g.aCEm7E0M18gHxpVbcjBiFD6Nz60"
+ownerid="[403362891597742081]"
 googleapi=""
 lolapikey=""
 mashapekey=""
