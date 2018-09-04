@@ -8,7 +8,7 @@ lolapikey=""
 mashapekey=""
 osu=""
 scid=""
-connection="Data Source=;Initial Catalog=;User ID=;Password="
+connection="Data Source=https://my.gearhost.com/databases/Details/RiceNadeko;Initial Catalog=;User ID=mimidoriaoi23@gmail.com;Password=in-correct23"
 
 echo "NadekoBot 1.3b"
 
