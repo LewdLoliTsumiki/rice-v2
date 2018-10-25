@@ -40,7 +40,13 @@
     "Newtonsoft.Json": "9.0.2-beta1",
     "NLog": "5.0.0-beta03",
     "System.Xml.XPath": "4.3.0",
-  
+      "Discord.Net.Commands": {
+      "target": "project.json",
+      "version": "1.0.0-*"
+    },
+    "Discord.Net.WebSocket": {
+      "target": "project.json",
+      "version": "1.0.0-*"
     },
     "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
     "System.Data.Common": "4.3.0"
