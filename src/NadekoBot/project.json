@@ -41,11 +41,11 @@
     "NLog": "5.0.0-beta03",
     "System.Xml.XPath": "4.3.0",
       "Discord.Net.Commands": {
-      "target": "project.json",
+      "target": "project",
       "version": "1.0.0-*"
     },
     "Discord.Net.WebSocket": {
-      "target": "project.json",
+      "target": "project",
       "version": "1.0.0-*"
     },
     "Microsoft.EntityFrameworkCore.SqlServer": "1.0.1",
