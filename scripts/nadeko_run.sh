@@ -1,7 +1,7 @@
 #!/bin/sh
-clientid="485125578303995918"
+clientid="505009715911065611"
 botid="485125578303995918"
-token="NDg1MTI1NTc4MzAzOTk1OTE4.DmsA5g.aCEm7E0M18gHxpVbcjBiFD6Nz60"
+token="NTA1MDA5NzE1OTExMDY1NjEx.DrNb4g.mBGnm5tr8bqiVEBrJs1fKi0ZxXI"
 ownerid="[403362891597742081]"
 googleapi=""
 lolapikey=""
