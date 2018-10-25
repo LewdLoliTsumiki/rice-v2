@@ -1,6 +1,6 @@
 #!/bin/sh
 clientid="505009715911065611"
-botid="485125578303995918"
+botid="505009715911065611"
 token="NTA1MDA5NzE1OTExMDY1NjEx.DrNb4g.mBGnm5tr8bqiVEBrJs1fKi0ZxXI"
 ownerid="[403362891597742081]"
 googleapi=""
