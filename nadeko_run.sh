@@ -20,19 +20,7 @@ else
 	exit 1
 fi
 root=$(pwd)
-echo "Restoring Nadeko dependencies"
-cd $root/NadekoBot/Discord.Net/src/Discord.Net.Core/
-dotnet restore 1>/dev/null 2>&1
-cd $root/NadekoBot/Discord.Net/src/Discord.Net.Rest/
-dotnet restore 1>/dev/null 2>&1
-cd $root/NadekoBot/Discord.Net/src/Discord.Net.WebSocket/
-dotnet restore 1>/dev/null 2>&1
-cd $root/NadekoBot/Discord.Net/src/Discord.Net.Commands/
-dotnet restore 1>/dev/null 2>&1
-cd $root/NadekoBot/src/NadekoBot/
-dotnet restore 1>/dev/null 2>&1
-echo ""
-echo "Restoring done"
+
 
 echo "Building NadekoBot"
 cd $root/NadekoBot/src/NadekoBot/
