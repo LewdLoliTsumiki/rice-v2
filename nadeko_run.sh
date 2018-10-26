@@ -22,7 +22,7 @@ fi
 
 
 echo "Building NadekoBot"
-cd $root/NadekoBot/src/NadekoBot/
+cd $root/rice-v2/src/NadekoBot/
 dotnet build --configuration Release 1>/dev/null 2>&1
 echo ""
 echo "Installation Complete."
